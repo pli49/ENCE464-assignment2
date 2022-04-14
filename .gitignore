@@ -1,0 +1,12 @@
+poisson
+threads
+
+dump.txt
+out.txt
+
+*.aux
+*.log
+*.out
+cachegrind.out.*
+
+_minted-*/
